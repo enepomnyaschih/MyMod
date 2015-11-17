@@ -9,8 +9,7 @@ Installation
 - Run Civ4
 - Select Advanced - Extensions - MyMod and start it
 
-    CHANGELOG for MyMod
-    ==================
+CHANGELOG for MyMod
 
     Buildings
 
