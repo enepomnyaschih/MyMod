@@ -1,5 +1,12 @@
 [Demo (VOD)](http://www.youtube.com/watch?v=m-PzrpYyBC8&list=PLI_N-q_21uSOXZpiTZA3bVX0HXdlor6Hi)
 
+Installation
+
+- Click "Download ZIP"
+- Extract MyMod-master folder
+- Rename it to "MyMod"
+- Move it to Mods directory of your Civilization 4 Beyond The Sword (Caution: Beyond The Sword may be a subfolder in Civ 4 installation folder! Use this subfolder then)
+
     CHANGELOG for MyMod
     ==================
 
