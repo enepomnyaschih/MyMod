@@ -6,6 +6,8 @@ Installation
 - Extract MyMod-master folder
 - Rename it to "MyMod"
 - Move it to Mods directory of your Civilization 4 Beyond The Sword (Caution: Beyond The Sword may be a subfolder in Civ 4 installation folder! Use this subfolder then)
+- Run Civ4
+- Select Advanced - Extensions - MyMod and start it
 
     CHANGELOG for MyMod
     ==================
