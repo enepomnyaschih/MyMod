@@ -16,9 +16,9 @@
 		<Italian>[NEWLINE]Tieni premuto &lt;CTRL&gt; per visualizzare i valori base.</Italian>
 		<Spanish>[NEWLINE]Hold &lt;CTRL&gt; to see base values.</Spanish>
 	</TEXT>
-	
+
 	<!-- Food Assist -->
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_CITY_BAR_FOOD_GROW</Tag>
 		<English>[NEWLINE]%d1 [ICON_FOOD]/Turn[NEWLINE]Growing: %d2/%d3 [ICON_FOOD] (%d4 [NUM4:Turn:Turns])</English>
@@ -51,9 +51,9 @@
 		<Italian>[NEWLINE]%d1 [ICON_BAD_FOOD]/Turno[NEWLINE][COLOR_WARNING_TEXT]CARESTIA: %d2/%d3 [ICON_FOOD][COLOR_REVERT]</Italian>
 		<Spanish>[NEWLINE]%d1 [ICON_BAD_FOOD]/turno[NEWLINE][COLOR_WARNING_TEXT]&#161;HAMBRUNA: %d2/%d3 [ICON_FOOD][COLOR_REVERT]</Spanish>
 	</TEXT>
-	
+
 	<!-- Base Production -->
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_CITY_BAR_HAMMER_PRODUCTION_WITH_BASE</Tag>
 		<English>[NEWLINE]%d1 [ICON_PRODUCTION]/Turn (%d6 [ICON_PRODUCTION]/Turn)[NEWLINE]%s2: %d3/%d4 [ICON_PRODUCTION] (%d5 [NUM5:Turn:Turns])</English>
@@ -86,9 +86,9 @@
 		<Italian>[NEWLINE]%d1 [ICON_PRODUCTION] (%d2 [ICON_PRODUCTION]/Turno)</Italian>
 		<Spanish>[NEWLINE]%d1 [ICON_PRODUCTION] (%d2 [ICON_PRODUCTION]/turno)</Spanish>
 	</TEXT>
-	
+
 	<!-- Culture Turns -->
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_CITY_BAR_CULTURE_NO_LEVEL</Tag>
 		<English>[NEWLINE][ICON_CULTURE]: %d1/%d2</English>
@@ -97,9 +97,9 @@
 		<Italian>[NEWLINE][ICON_CULTURE]: %d1/%d2</Italian>
 		<Spanish>[NEWLINE][ICON_CULTURE]: %d1/%d2</Spanish>
 	</TEXT>
-	
+
 <!-- Finance Advisor -->
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_BUG_FINANCIAL_ADVISOR_DOMESTIC_TRADE</Tag>
 		<English>The Total Commerce from Domestic Trade Routes</English>
@@ -116,7 +116,7 @@
 		<Italian>Commercio totale dalle rotte commerciali estere</Italian>
 		<Spanish>The Total Commerce from Foreign Trade Routes</Spanish>
 	</TEXT>
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_BUG_FINANCIAL_ADVISOR_SPECIALISTS</Tag>
 		<English>The Total Gold from Specialists</English>
@@ -195,7 +195,7 @@
 		<Italian>[ICON_BULLET][COLOR_YELLOW]Si è in guerra![COLOR_REVERT]</Italian>
 		<Spanish>[ICON_BULLET][COLOR_YELLOW]Usted está en guerra![COLOR_REVERT]</Spanish>
 	</TEXT>
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_PEACE_TREATY_WITH</Tag>
 		<English>[ICON_BULLET][COLOR_CYAN]Peace Treaty with %s1_player[COLOR_REVERT]</English>
@@ -212,7 +212,7 @@
 		<Italian>[ICON_BULLET][COLOR_CYAN]Si dispone di un trattato di pace[COLOR_REVERT]</Italian>
 		<Spanish>[ICON_BULLET][COLOR_CYAN]Ustedes tiene un tratado de paz[COLOR_REVERT]</Spanish>
 	</TEXT>
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_WORST_ENEMY_OF</Tag>
 		<English>[ICON_BULLET][COLOR_YELLOW]Worst Enemy of %s1_player[COLOR_REVERT]</English>
@@ -237,7 +237,7 @@
 		<Italian>[ICON_BULLET][COLOR_YELLOW]Tu sei peggiore ostile[COLOR_REVERT]</Italian>
 		<Spanish>[ICON_BULLET][COLOR_YELLOW]Usted es peor enemigo[COLOR_REVERT]</Spanish>
 	</TEXT>
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_DEFENSIVE_PACT_WITH</Tag>
 		<English>[ICON_BULLET][COLOR_BLUE]Defensive Pact with %s1_player[COLOR_REVERT]</English>
@@ -254,7 +254,7 @@
 		<Italian>[ICON_BULLET][COLOR_BLUE]Si dispone di un patto di difesa[COLOR_REVERT]</Italian>
 		<Spanish>[ICON_BULLET][COLOR_BLUE]Ustedes tiene un pacto defensivo[COLOR_REVERT]</Spanish>
 	</TEXT>
-	
+
 <!-- Tech Hover -->
 
 	<TEXT>
@@ -286,7 +286,7 @@
 	</TEXT>
 
 <!-- Min/Max Commerce Rate Buttons -->
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_MISC_SET_RATE</Tag>
 		<English>Set %s1_CmrcType Rate to %d2_Value%%</English>
@@ -297,7 +297,7 @@
 	</TEXT>
 
 <!-- Lat/Long Coordinates -->
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_LATLONG</Tag>
 		<English>%d1&#176;%d2'[SPACE]</English>
@@ -340,9 +340,9 @@
 	</TEXT>
 
 <!-- City Screen -->
-	
+
 	<!-- Yield Hovers -->
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_MISC_HELP_WORKED_TILES_YIELD</Tag>
 		<English>[ICON_BULLET]%D1%F2 from Worked Tiles</English>
@@ -361,7 +361,7 @@
 	</TEXT>
 
 	<!-- Food Hover -->
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_MISC_HELP_EATEN_FOOD</Tag>
 		<English>[ICON_BULLET]%D1[ICON_EATENFOOD] for Population</English>
@@ -378,7 +378,7 @@
 		<Italian>[ICON_BULLET]%D1[ICON_EATENFOOD] per la salute</Italian>
 		<Spanish>[ICON_BULLET]%D1[ICON_EATENFOOD] Por salud</Spanish>
 	</TEXT>
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_MISC_HELP_BASE_FOOD_PRODUCED</Tag>
 		<English>-----------------------[NEWLINE]Base Food Produced: %d1[ICON_FOOD]</English>
@@ -403,7 +403,7 @@
 		<Italian>-----------------------[NEWLINE]Cibo totale consumato: %d1[ICON_EATENFOOD]</Italian>
 		<Spanish>-----------------------[NEWLINE]Alimento total consumido: %d1[ICON_EATENFOOD]</Spanish>
 	</TEXT>
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_MISC_HELP_NET_FOOD_GROW</Tag>
 		<English>Net Food: %D1[ICON_FOOD]</English>
@@ -438,7 +438,7 @@
 	</TEXT>
 
 	<!-- Commerce Hovers -->
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_MISC_HELP_COMMERCE_SUBTOTAL_YIELD_FLOAT</Tag>
 		<English>-----------------------[NEWLINE]Base %s1_commerce_type: %s2%F3</English>
@@ -463,9 +463,9 @@
 		<Italian>-----------------------[NEWLINE]%s1_commerce_type totale: %s2%F3</Italian>
 		<Spanish>-----------------------[NEWLINE]Total %s1_commerce_type: %s2%F3</Spanish>
 	</TEXT>
-	
+
 	<!-- Defense Hover -->
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_MISC_HELP_BUILDING_DEFENSE</Tag>
 		<English>[ICON_BULLET]%D1%%[ICON_DEFENSE] from Buildings</English>
@@ -522,7 +522,7 @@
 		<Italian>Difesa netto: %D1%%[ICON_DEFENSE]</Italian>
 		<Spanish>Defensa neto: %D1%%[ICON_DEFENSE]</Spanish>
 	</TEXT>
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_MISC_HELP_TOTAL_BOMBARD_DEFENSE</Tag>
 		<English>Total Bombard Defense: %d1%%[ICON_DEFENSE]</English>
@@ -601,7 +601,7 @@
 		<Italian>[NEWLINE]Average Yield: %s1[ICON_COMMERCE]</Italian>
 		<Spanish>[NEWLINE]Average Yield: %s1[ICON_COMMERCE]</Spanish>
 	</TEXT>
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_BUG_CANNOT_TRADE_DEAD</Tag>
 		<English>[NEWLINE][ICON_BULLET]They are dead</English>
@@ -661,7 +661,7 @@
 		<Italian>%d1[ICON_STAR]</Italian>
 		<Spanish>%d1[ICON_STAR]</Spanish>
 	</TEXT>
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_CITY_FREE_EXPERIENCE</Tag>
 		<English>[ICON_BULLET][COLOR_POSITIVE_TEXT]%D1 XP from City[COLOR_REVERT]</English>
@@ -747,7 +747,7 @@
 	</TEXT>
 
 <!-- Pre-Chop -->
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_BUG_PRECLEARING_FEATURE_BONUS</Tag>
 		<English>Clearing a %s1_FeatName will create %d2_Num [ICON_PRODUCTION] for %s3_CityName.</English>
@@ -758,7 +758,7 @@
 	</TEXT>
 
 <!-- Delete/Fortify/Sleep All Units Actions -->
-	
+
 	<TEXT>
 		<Tag>TXT_KEY_SAME_UNITS_TYPE</Tag>
 		<English>[SPACE](&lt;ALT&gt; for All Units of the active unit's type)</English>
@@ -840,6 +840,14 @@
 		<German>Verborgene Modifikatoren anzeigen [Spoiler]</German>
 		<Italian>Show Hidden Attitudes [spoiler]</Italian>
 		<Spanish>Show Hidden Attitudes [spoiler]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITY_HALL</Tag>
+		<English>City hall</English>
+		<French>City hall</French>
+		<German>City hall</German>
+		<Italian>City hall</Italian>
+		<Spanish>City hall</Spanish>
 	</TEXT>
 
 </Civ4GameText>

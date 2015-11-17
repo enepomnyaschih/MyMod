@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_FREE_TAOIST_MISSIONARY</Tag>
+		<Russian>[ICON_BULLET]Gives a free taoist missionary</Russian>
+		<English>[ICON_BULLET]Gives a free taoist missionary</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FREE_ISLAMIC_MISSIONARY</Tag>
+		<Russian>[ICON_BULLET]Gives a free islamic missionary</Russian>
+		<English>[ICON_BULLET]Gives a free islamic missionary</English>
+	</TEXT>
+</Civ4GameText>
